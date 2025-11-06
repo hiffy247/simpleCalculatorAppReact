@@ -45,7 +45,7 @@ Clone the repository and install dependencies:
 
 ``` bash
 git clone https://github.com/hiffy247/simple-calculator-app.git
-cd react-calculator
+cd simple-calculator-app
 npm install
 npm start
 Open browser and go to: http://localhost:3000
